@@ -1,0 +1,16 @@
+C:\Users\Julio\Documents\Repo\CSharp_studies\BasicTypes\BasicTypes\bin\Debug\net5.0\BasicTypes.exe
+C:\Users\Julio\Documents\Repo\CSharp_studies\BasicTypes\BasicTypes\bin\Debug\net5.0\BasicTypes.deps.json
+C:\Users\Julio\Documents\Repo\CSharp_studies\BasicTypes\BasicTypes\bin\Debug\net5.0\BasicTypes.runtimeconfig.json
+C:\Users\Julio\Documents\Repo\CSharp_studies\BasicTypes\BasicTypes\bin\Debug\net5.0\BasicTypes.runtimeconfig.dev.json
+C:\Users\Julio\Documents\Repo\CSharp_studies\BasicTypes\BasicTypes\bin\Debug\net5.0\BasicTypes.dll
+C:\Users\Julio\Documents\Repo\CSharp_studies\BasicTypes\BasicTypes\bin\Debug\net5.0\ref\BasicTypes.dll
+C:\Users\Julio\Documents\Repo\CSharp_studies\BasicTypes\BasicTypes\bin\Debug\net5.0\BasicTypes.pdb
+C:\Users\Julio\Documents\Repo\CSharp_studies\BasicTypes\BasicTypes\obj\Debug\net5.0\BasicTypes.csproj.AssemblyReference.cache
+C:\Users\Julio\Documents\Repo\CSharp_studies\BasicTypes\BasicTypes\obj\Debug\net5.0\BasicTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio\Documents\Repo\CSharp_studies\BasicTypes\BasicTypes\obj\Debug\net5.0\BasicTypes.AssemblyInfoInputs.cache
+C:\Users\Julio\Documents\Repo\CSharp_studies\BasicTypes\BasicTypes\obj\Debug\net5.0\BasicTypes.AssemblyInfo.cs
+C:\Users\Julio\Documents\Repo\CSharp_studies\BasicTypes\BasicTypes\obj\Debug\net5.0\BasicTypes.csproj.CoreCompileInputs.cache
+C:\Users\Julio\Documents\Repo\CSharp_studies\BasicTypes\BasicTypes\obj\Debug\net5.0\BasicTypes.dll
+C:\Users\Julio\Documents\Repo\CSharp_studies\BasicTypes\BasicTypes\obj\Debug\net5.0\ref\BasicTypes.dll
+C:\Users\Julio\Documents\Repo\CSharp_studies\BasicTypes\BasicTypes\obj\Debug\net5.0\BasicTypes.pdb
+C:\Users\Julio\Documents\Repo\CSharp_studies\BasicTypes\BasicTypes\obj\Debug\net5.0\BasicTypes.genruntimeconfig.cache
