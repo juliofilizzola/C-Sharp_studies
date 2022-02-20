@@ -23,12 +23,15 @@ namespace BasicTypes
             Ele é um tipo imutável
             
             */
+
+            object thisObj = "xablau";
             Console.WriteLine(thisIsBool);
             Console.WriteLine(thisIsString);
             Console.WriteLine(c);
             Console.WriteLine(x);
             Console.WriteLine(y);
             Console.WriteLine(s);
+            Console.WriteLine(thisObj);
         }
     }
 }
