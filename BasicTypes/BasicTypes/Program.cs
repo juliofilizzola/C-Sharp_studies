@@ -16,6 +16,13 @@ namespace BasicTypes
             bool thisIsBool = false;
             string thisIsString = "This is string";
             // a variavel que for cria como string, deve conter ela com aspas duplas
+
+            /*
+               O tipo string, não é um tipo básico do C#, ele é um tipo referencia.
+            Ele é uma cadeia de caracteres Unicode
+            Ele é um tipo imutável
+            
+            */
             Console.WriteLine(thisIsBool);
             Console.WriteLine(thisIsString);
             Console.WriteLine(c);
