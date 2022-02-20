@@ -12,6 +12,10 @@ namespace saidaDeFunção {
             // essa saida é o placeholder
 
             Console.WriteLine($"{name} tem {age} anos e tem o saldo igual a {sold:F2} reais");
+
+            // exemplo de template string
+
+            Console.WriteLine(name + " tem " + age + " anos e tem o saldo igual a " + sold.ToString("F2") + " reais");
         }
     }
 }
